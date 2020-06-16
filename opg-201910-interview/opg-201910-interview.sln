@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg-201910-interview", "opg-201910-interview\opg-201910-interview.csproj", "{C08A1508-1368-49EE-BD14-F0D8EC911FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg-201910-interview.UnitTest", "opg-201910-interview.UnitTest\opg-201910-interview.UnitTest.csproj", "{33DAC58D-D6BA-45AB-9B76-B41B5E8A26E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08A1508-1368-49EE-BD14-F0D8EC911FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08A1508-1368-49EE-BD14-F0D8EC911FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08A1508-1368-49EE-BD14-F0D8EC911FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08A1508-1368-49EE-BD14-F0D8EC911FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DAC58D-D6BA-45AB-9B76-B41B5E8A26E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DAC58D-D6BA-45AB-9B76-B41B5E8A26E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DAC58D-D6BA-45AB-9B76-B41B5E8A26E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DAC58D-D6BA-45AB-9B76-B41B5E8A26E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4DE84A-AB75-4943-8555-9D5F836CEC63}
+	EndGlobalSection
+EndGlobal
